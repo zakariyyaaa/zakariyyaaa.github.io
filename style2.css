@@ -1,0 +1,94 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(#2f5d62, #5e8b7e);
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #2e0a60;
+  font-family: 'Poppins', sans-serif;
+}
+h2 {
+  font-size: 50px;
+  color: rgb(0, 0, 0);
+}
+#about {
+  box-shadow: 20px 20px 10px rgb(0, 0, 0.5);
+  padding-bottom: 2rem;
+  border-radius: 50px;
+  background-color: rgb(76, 0, 255);
+  width: 70%;
+  height: 450px;
+  margin-top: 6rem;
+}
+section {
+  padding-top: 5rem;
+}
+section {
+  margin: auto;
+  display: flex;
+}
+
+.wrapper img {
+  padding-left: 5rem;
+  padding-top: 2rem;
+  width: 550px;
+  height: 600px;
+}
+.Nama {
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  padding-top: 6rem;
+  color: rgb(76, 0, 255);
+  font-weight: 400;
+  text-shadow: 2px 2px #f1f1f1;
+}
+.Nama2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+  text-shadow: 2px 2px #f1f1f1;
+}
+.Nama3 {
+  font-size: large;
+  color: rgb(247, 244, 244);
+  line-height: 1.2rem;
+  width: 100%;
+  padding-bottom: 20px;
+}
+a.btn-blue {
+  background: rgb(76, 0, 255);
+  border-radius: 10px;
+  margin-top: 50px;
+  padding: 15px 20px 15px 20px;
+  color: #000000;
+  font-weight: bold;
+  box-shadow: 5px 4px 3px rgb(87, 87, 88);
+}
+a.btn-blue:hover {
+  background: rgb(124, 124, 124);
+  text-decoration: none;
+}
+.col-md-4 {
+  color: #000000;
+}
+.card {
+  box-shadow: 10px 10px 5px rgb(0, 0, 0.5);
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.5);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  border-left: 1px solid rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(5px);
+}
+
+.mb {
+  padding-bottom: 1rem;
+}
+#projects {
+  margin-top: 5rem;
+}
